@@ -63,7 +63,7 @@ This course provides an introduction to the fundamental concept of microprocesso
   <tr>
     <th>Week 1</th>
     <th><a href="">Lab1</a></th> 
-    <th>Introduction to Github and SQL</th>
+    <th>Introduction to Github and ASM</th>
     <th>14.07.2020</th>
   </tr>
   <tr>
