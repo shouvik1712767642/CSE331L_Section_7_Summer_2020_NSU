@@ -73,15 +73,15 @@ This course provides an introduction to the fundamental concept of microprocesso
 </br>
 
 ## _Required Software:_
-<!---
-1. **XAMPP** - https://www.apachefriends.org/download.html
-2. **VS Code** - https://code.visualstudio.com/download
-3. **Git SCM** - https://git-scm.com/downloads
-4. **Github Desktop** - https://desktop.github.com/
-5. **Sublime Text** - https://www.sublimetext.com/3
+
+1. **EMU8086** - https://emu8086-microprocessor-emulator.en.softonic.com/download
+2. **Proteus, MikroC, PicKit3 Programmer** - https://drive.google.com/drive/folders/1nIcUIjz8zcJ1pOLng5mP7JQ1xtKrWsE_?usp=sharing
+3. **VS Code** - https://code.visualstudio.com/download
+4. **Git SCM** - https://git-scm.com/downloads
+5. **Github Desktop** - https://desktop.github.com/
 
 </br>
--->
+
 ## _Submission Guideline_:
 <p align="central">
 
