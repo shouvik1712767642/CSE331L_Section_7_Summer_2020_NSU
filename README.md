@@ -99,7 +99,7 @@ This course provides an introduction to the fundamental concept of microprocesso
 </p>
 </br>
 
-## _Homework:_(Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
+## _Homework:_(Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Homework%20Submission/Homework%201">Link</a>)
 
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
@@ -111,7 +111,7 @@ This course provides an introduction to the fundamental concept of microprocesso
 </p>
 </br>
 
-## _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+## _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
 
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
