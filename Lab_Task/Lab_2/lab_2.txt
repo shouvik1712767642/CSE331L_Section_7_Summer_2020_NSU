@@ -1,0 +1,10 @@
+org 100h
+          k  DW 15 ;int k  =1
+          k1 DW 15 ;int k1 =2
+          k2 DW 15 ;int k2 =2
+          k3 DW 15 ;int k3 =1
+          
+       MOV AX,K
+       ADD AX,K1
+       ADD AX,K1
+       ADD AX,K1
