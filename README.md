@@ -146,6 +146,6 @@ Will Update Later
 </br>
 
 ## License 📄
-_This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work._
+This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
