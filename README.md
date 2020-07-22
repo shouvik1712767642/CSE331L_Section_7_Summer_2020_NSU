@@ -11,9 +11,9 @@ This is the official Github Repository for <b>CSE331L: Microprocessor Interfacin
 Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 
 ## _Office Hour:_
-Thursday: 7.00 pm to 8.00 pm.
-Link: https://meet.google.com/pnd-gfcz-ssg
-**P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
+* Thursday: 7.00 pm to 8.00 pm.
+* Link: https://meet.google.com/pnd-gfcz-ssg
+* **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 
 </br>
 </p>
