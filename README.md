@@ -10,6 +10,10 @@ Department of Electrical and Computer Engineering
 This is the official Github Repository for <b>CSE331L: Microprocessor Interfacing & Embedded System Lab, Section 7, Summer 2020</b>. All course-related materials and Code submission will be facilitated here.</br> </br> 
 Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 
+## _Office Hour:_
+Thursday: 7.00 pm to 8.00 pm.
+Link: https://meet.google.com/pnd-gfcz-ssg
+**P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 
 </br>
 </p>
