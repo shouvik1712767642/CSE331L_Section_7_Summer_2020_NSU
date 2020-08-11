@@ -66,19 +66,19 @@ This course provides an introduction to the fundamental concept of microprocesso
   </tr>
   <tr>
     <th>Week 1</th>
-    <th><a href="">Lab 1</a></th> 
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_1">Lab 1</a></th> 
     <th>Introduction to Github and ASM</th>
     <th>14.07.2020</th>
   </tr>
   <tr>
     <th>Week 2</th>
-    <th><a href="">Lab 2</a></th> 
-    <th>Introduce Basic MOV functions. and the </th>
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_2">Lab 2</a></th> 
+    <th>Introduce Basic MOV functions. </th>
     <th>21.07.2020</th>
   </tr>
   <tr>
     <th>Week 3</th>
-    <th><a href="">Lab 3</a></th> 
+    <th><a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides/Lab_3">Lab 3</a></th> 
     <th>Basic arithmetic, logical functions and interrupt</th>
     <th>4.08.2020</th>
   </tr>
