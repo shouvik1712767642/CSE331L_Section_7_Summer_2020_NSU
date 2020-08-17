@@ -125,6 +125,8 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 ## _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
 
+## _Marks:_ (Updated here <a href="https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/blob/master/Marks/CSE331L_Section_7_Marks.pdf">Link</a>)
+
 ## _Project_ 
 <p align="justify">
 Will Update Later
